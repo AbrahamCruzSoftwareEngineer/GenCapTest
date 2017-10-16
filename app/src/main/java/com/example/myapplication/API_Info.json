@@ -1,0 +1,993 @@
+[
+  {
+    "flight_number": 1,
+    "launch_year": "2006",
+    "launch_date_unix": 1143239400,
+    "launch_date_utc": "2006-03-24T22:30:00Z",
+    "launch_date_local": "2006-03-25T10:30:00+12:00",
+    "rocket": {
+      "rocket_id": "falcon1",
+      "rocket_name": "Falcon 1",
+      "rocket_type": "Merlin A"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "Merlin 1A",
+    "cap_serial": null,
+    "launch_site": {
+      "site_id": "kwajalein_atoll",
+      "site_name": "Kwajalein Atoll"
+    },
+    "payloads": [
+      {
+        "payload_id": "FalconSAT-2",
+        "customers": [
+          "DARPA"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 20,
+        "payload_mass_lbs": 43,
+        "orbit": "LEO"
+      }
+    ],
+    "launch_success": false,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://spacexpatchlist.space/images/thumbs/falcon_1_flight_1.png",
+      "article_link": "https://www.space.com/2196-spacex-inaugural-falcon-1-rocket-lost-launch.html",
+      "video_link": "https://www.youtube.com/watch?v=0a_00nJ_Y88"
+    },
+    "details": "Engine failure at 33 seconds and loss of vehicle"
+  },
+  {
+    "flight_number": 2,
+    "launch_year": "2007",
+    "launch_date_unix": 1174439400,
+    "launch_date_utc": "2007-03-21T01:10:00Z",
+    "launch_date_local": "2007-03-21T13:10:00+12:00",
+    "rocket": {
+      "rocket_id": "falcon1",
+      "rocket_name": "Falcon 1",
+      "rocket_type": "Merlin A"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "Merlin 1A",
+    "cap_serial": null,
+    "launch_site": {
+      "site_id": "kwajalein_atoll",
+      "site_name": "Kwajalein Atoll"
+    },
+    "payloads": [
+      {
+        "payload_id": "DemoSAT",
+        "customers": [
+          "DARPA"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 0,
+        "payload_mass_lbs": 0,
+        "orbit": "LEO"
+      }
+    ],
+    "launch_success": false,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://spacexpatchlist.space/images/thumbs/falcon_1_flight_2.png",
+      "article_link": "https://www.space.com/3590-spacex-falcon-1-rocket-fails-reach-orbit.html",
+      "video_link": "https://www.youtube.com/watch?v=YMvQsmLv44o"
+    },
+    "details": "Successful first stage burn and transition to second stage, maximum altitude 289 km, Premature engine shutdown at T+7 min 30 s, Failed to reach orbit, Failed to recover first stage"
+  },
+  {
+    "flight_number": 3,
+    "launch_year": "2008",
+    "launch_date_unix": 1217648040,
+    "launch_date_utc": "2008-08-02T03:34:00Z",
+    "launch_date_local": "2008-08-02T15:34:00+12:00",
+    "rocket": {
+      "rocket_id": "falcon1",
+      "rocket_name": "Falcon 1",
+      "rocket_type": "Merlin C"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "Merlin 1C",
+    "cap_serial": null,
+    "launch_site": {
+      "site_id": "kwajalein_atoll",
+      "site_name": "Kwajalein Atoll"
+    },
+    "payloads": [
+      {
+        "payload_id": "Trailblazer",
+        "customers": [
+          "NASA"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 0,
+        "payload_mass_lbs": 0,
+        "orbit": "LEO"
+      },
+      {
+        "payload_id": "PRESat",
+        "customers": [
+          "ORS"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 0,
+        "payload_mass_lbs": 0,
+        "orbit": "LEO"
+      }
+    ],
+    "launch_success": false,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://spacexpatchlist.space/images/thumbs/falcon_1_flight_3.png",
+      "article_link": "http://www.spacex.com/news/2013/02/11/falcon-1-flight-3-mission-summary",
+      "video_link": "https://www.youtube.com/watch?v=Qz0yJ8N3cA0"
+    },
+    "details": "Residual stage 1 thrust led to collision between stage 1 and stage 2"
+  },
+  {
+    "flight_number": 4,
+    "launch_year": "2008",
+    "launch_date_unix": 1222643700,
+    "launch_date_utc": "2008-09-28T23:15:00Z",
+    "launch_date_local": "2008-09-28T11:15:00+12:00",
+    "rocket": {
+      "rocket_id": "falcon1",
+      "rocket_name": "Falcon 1",
+      "rocket_type": "Merlin C"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "Merlin 1C",
+    "cap_serial": null,
+    "launch_site": {
+      "site_id": "kwajalein_atoll",
+      "site_name": "Kwajalein Atoll"
+    },
+    "payloads": [
+      {
+        "payload_id": "RatSat",
+        "customers": [
+          "SpaceX"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 165,
+        "payload_mass_lbs": 363,
+        "orbit": "LEO"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://spacexpatchlist.space/images/thumbs/falcon_1_flight_4.png",
+      "article_link": "https://en.wikipedia.org/wiki/Ratsat",
+      "video_link": "https://www.youtube.com/watch?v=dLQ2tZEH6G0"
+    },
+    "details": "Ratsat was carried to orbit on the first successful orbital launch of any privately funded and developed, liquid-propelled carrier rocket, the� SpaceX Falcon 1"
+  },
+  {
+    "flight_number": 5,
+    "launch_year": "2009",
+    "launch_date_unix": 1247456100,
+    "launch_date_utc": "2009-07-13T03:35:00Z",
+    "launch_date_local": "2009-07-13T15:35:00+12:00",
+    "rocket": {
+      "rocket_id": "falcon1",
+      "rocket_name": "Falcon 1",
+      "rocket_type": "Merlin C"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "Merlin 1C",
+    "cap_serial": null,
+    "launch_site": {
+      "site_id": "kwajalein_atoll",
+      "site_name": "Kwajalein Atoll"
+    },
+    "payloads": [
+      {
+        "payload_id": "RazakSAT",
+        "customers": [
+          "ATSB"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 200,
+        "payload_mass_lbs": 440,
+        "orbit": "LEO"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://spacexpatchlist.space/images/thumbs/falcon_1_flight_5.png",
+      "presskit": "http://www.spacex.com/press/2012/12/19/spacexs-falcon-1-successfully-delivers-razaksat-satellite-orbit",
+      "article_link": "http://www.spacex.com/news/2013/02/12/falcon-1-flight-5",
+      "video_link": "https://www.youtube.com/watch?v=WTFlFFrfEB0"
+    },
+    "details": null
+  },
+  {
+    "flight_number": 6,
+    "launch_year": "2010",
+    "launch_date_unix": 1275677100,
+    "launch_date_utc": "2010-06-04T18:45:00Z",
+    "launch_date_local": "2010-06-04T14:45:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.0"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B0003",
+    "cap_serial": null,
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "Dragon Qualification Unit",
+        "customers": [
+          "SpaceX"
+        ],
+        "payload_type": "Dragon Boilerplate",
+        "payload_mass_kg": 0,
+        "payload_mass_lbs": 0,
+        "orbit": "LEO"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/RJjhalG.png",
+      "presskit": "http://forum.nasaspaceflight.com/index.php?action=dlattach;topic=21869.0;attach=230821",
+      "article_link": "http://www.spacex.com/news/2013/02/12/falcon-9-flight-1",
+      "video_link": "https://www.youtube.com/watch?v=nxSxgBKlYws"
+    },
+    "details": null
+  },
+  {
+    "flight_number": 7,
+    "launch_year": "2010",
+    "launch_date_unix": 1291822980,
+    "launch_date_utc": "2010-12-08T15:43:00Z",
+    "launch_date_local": "2010-12-08T11:43:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.0"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B0004",
+    "cap_serial": "C101",
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "COTS Demo Flight 1",
+        "customers": [
+          "NASA(COTS)"
+        ],
+        "payload_type": "Dragon 1.0",
+        "payload_mass_kg": 0,
+        "payload_mass_lbs": 0,
+        "orbit": "LEO"
+      },
+      {
+        "payload_id": "Cubesats",
+        "customers": [
+          "NRO"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 0,
+        "payload_mass_lbs": 0,
+        "orbit": "LEO"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/4OdzPRh.png",
+      "presskit": "http://www.spacex.com/files/downloads/cots1-20101206.pdf",
+      "article_link": "https://en.wikipedia.org/wiki/SpaceX_COTS_Demo_Flight_1",
+      "video_link": "https://www.youtube.com/watch?v=Q-ci9xIgNZM"
+    },
+    "details": null
+  },
+  {
+    "flight_number": 8,
+    "launch_year": "2012",
+    "launch_date_unix": 1335944640,
+    "launch_date_utc": "2012-05-02T07:44:00Z",
+    "launch_date_local": "2012-05-02T03:44:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.0"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B0005",
+    "cap_serial": "C102",
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "COTS Demo Flight 2",
+        "customers": [
+          "NASA(COTS)"
+        ],
+        "payload_type": "Dragon 1.0",
+        "payload_mass_kg": 525,
+        "payload_mass_lbs": 1157,
+        "orbit": "LEO"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/Q91TcIj.png",
+      "presskit": "https://www.nasa.gov/pdf/649910main_cots2_presskit_051412.pdf",
+      "article_link": "https://en.wikipedia.org/wiki/Dragon_C2%2B",
+      "video_link": "https://www.youtube.com/watch?v=tpQzDbAY7yI"
+    },
+    "details": "Launch was scrubbed on first attempt, second launch attempt was successful"
+  },
+  {
+    "flight_number": 9,
+    "launch_year": "2012",
+    "launch_date_unix": 1349656500,
+    "launch_date_utc": "2012-10-08T00:35:00Z",
+    "launch_date_local": "2012-10-08T20:35:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.0"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B0006",
+    "cap_serial": "C103",
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "SpaceX CRS-1",
+        "customers": [
+          "NASA (CRS)"
+        ],
+        "payload_type": "Dragon 1.0",
+        "payload_mass_kg": 400,
+        "payload_mass_lbs": 881,
+        "orbit": "ISS",
+        "mass_returned_kg": 905,
+        "mass_returned_lbs": 1995,
+        "flight_time_sec": 1728000,
+        "cargo_manifest": "https://en.wikipedia.org/wiki/SpaceX_CRS-1#Payload"
+      },
+      {
+        "payload_id": "Orbcomm-OG2",
+        "customers": [
+          "Orbcomm"
+        ],
+        "payload_type": "Dragon 1.0",
+        "payload_mass_kg": 400,
+        "payload_mass_lbs": 881,
+        "orbit": "LEO"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/6MHSvNg.png",
+      "presskit": "https://www.nasa.gov/pdf/694166main_SpaceXCRS-1PressKit.pdf",
+      "article_link": "https://en.wikipedia.org/wiki/SpaceX_CRS-1",
+      "video_link": "https://www.youtube.com/watch?v=-Vk3hiV_zXU"
+    },
+    "details": "CRS-1 successful, but the secondary payload was inserted into abnormally low orbit and lost due to Falcon 9 boost stage engine failure, ISS visiting vehicle safety rules, and the primary payload owner's contractual right to decline a second ignition of the second stage under some conditions."
+  },
+  {
+    "flight_number": 10,
+    "launch_year": "2013",
+    "launch_date_unix": 1362165000,
+    "launch_date_utc": "2013-03-01T19:10:00Z",
+    "launch_date_local": "2013-03-01T15:10:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.0"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B0007",
+    "cap_serial": "C104",
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "SpaceX CRS-2",
+        "customers": [
+          "NASA (CRS)"
+        ],
+        "payload_type": "Dragon 1.0",
+        "payload_mass_kg": 677,
+        "payload_mass_lbs": 1492,
+        "orbit": "ISS",
+        "mass_returned_kg": 1370,
+        "mass_returned_lbs": 3020,
+        "flight_time_sec": 2160000,
+        "cargo_manifest": "https://en.wikipedia.org/wiki/SpaceX_CRS-2#Payload"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/XDAA73Y.png",
+      "reddit_campaign": null,
+      "reddit_launch": "https://www.reddit.com/r/space/comments/19gm5f/live_coverage_spacex_crs2_launch_to_the_iss/c8nvah4",
+      "reddit_recovery": null,
+      "reddit_media": null,
+      "presskit": "https://www.nasa.gov/sites/default/files/files/Orb2_PRESS_KIT.pdf",
+      "article_link": "https://en.wikipedia.org/wiki/SpaceX_CRS-2",
+      "video_link": "https://www.youtube.com/watch?v=BqCELhkXtsY"
+    },
+    "details": "Last launch of the original Falcon 9 v1.0 launch vehicle"
+  },
+  {
+    "flight_number": 11,
+    "launch_year": "2013",
+    "launch_date_unix": 1380470400,
+    "launch_date_utc": "2013-09-29T16:00:00Z",
+    "launch_date_local": "2013-09-29T09:00:00-07:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.1"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B1003",
+    "cap_serial": null,
+    "launch_site": {
+      "site_id": "vafb_slc_4e",
+      "site_name": "VAFB SLC 4E"
+    },
+    "payloads": [
+      {
+        "payload_id": "CASSIOPE",
+        "customers": [
+          "MDA"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 500,
+        "payload_mass_lbs": 1100,
+        "orbit": "Polar"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": false,
+    "landing_type": "Ocean",
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/AgTuU4l.png",
+      "reddit_campaign": null,
+      "reddit_launch": "http://www.reddit.com/r/spacex/comments/1ndlay",
+      "reddit_recovery": null,
+      "reddit_media": null,
+      "presskit": "https://spaceflightnow.com/falcon9/006/UpgradedF9DemoMission_PressKit.pdf",
+      "article_link": "https://en.wikipedia.org/wiki/CASSIOPE",
+      "video_link": "https://www.youtube.com/watch?v=uFefasS6bhc"
+    },
+    "details": "Commercial mission and first Falcon 9 v1.1 flight, with improved 13-tonne to LEO capacity. Following second-stage separation from the first stage, an attempt was made to perform an ocean touchdown test of the discarded booster vehicle. The test provided good test data on the experiment-its primary objective-but as the booster neared the ocean, aerodynamic forces caused an uncontrollable roll. The center engine, depleted of fuel by centrifugal force, shut down resulting in the impact and destruction of the vehicle."
+  },
+  {
+    "flight_number": 12,
+    "launch_year": "2013",
+    "launch_date_unix": 1386110460,
+    "launch_date_utc": "2013-12-03T22:41:00Z",
+    "launch_date_local": "2013-12-03T18:41:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.1"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B1004",
+    "cap_serial": null,
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "SES-8",
+        "customers": [
+          "SES"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 3170,
+        "payload_mass_lbs": 6990,
+        "orbit": "GTO"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/4Xn8T5g.png",
+      "reddit_campaign": null,
+      "reddit_launch": "http://www.reddit.com/r/spacex/comments/1ryy1n",
+      "reddit_recovery": null,
+      "reddit_media": null,
+      "presskit": "http://www.spacex.com/sites/spacex/files/spacex_ses-8launch_presskit.pdf",
+      "article_link": "https://en.wikipedia.org/wiki/SES-8",
+      "video_link": "https://www.youtube.com/watch?v=aAj5xapImEs"
+    },
+    "details": "First GTO launch for Falcon 9"
+  },
+  {
+    "flight_number": 13,
+    "launch_year": "2014",
+    "launch_date_unix": 1389031560,
+    "launch_date_utc": "2014-01-06T18:06:00Z",
+    "launch_date_local": "2014-01-06T14:06:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.1"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B1005",
+    "cap_serial": null,
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "Thaicom 6",
+        "customers": [
+          "Thaicom"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 3325,
+        "payload_mass_lbs": 7330,
+        "orbit": "GTO"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/4OthEEp.png",
+      "reddit_campaign": null,
+      "reddit_launch": "http://www.reddit.com/r/spacex/comments/1ujoc0",
+      "reddit_recovery": null,
+      "reddit_media": null,
+      "presskit": "http://www.spacex.com/sites/spacex/files/spacex_thaicom6_presskit.pdf",
+      "article_link": "https://en.wikipedia.org/wiki/Thaicom_6",
+      "video_link": "https://www.youtube.com/watch?v=DjpUf__4vPA"
+    },
+    "details": "Second GTO launch for Falcon 9. The USAF evaluated launch data from this flight as part of a separate certification program for SpaceX to qualify to fly U.S. military payloads and found that the Thaicom 6 launch had \"unacceptable fuel reserves at engine cutoff of the stage 2 second burnoff\""
+  },
+  {
+    "flight_number": 14,
+    "launch_year": "2014",
+    "launch_date_unix": 1397849100,
+    "launch_date_utc": "2014-04-18T19:25:00Z",
+    "launch_date_local": "2014-04-18T15:25:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.1"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B1006",
+    "cap_serial": "C105",
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "SpaceX CRS-3",
+        "customers": [
+          "NASA (CRS)"
+        ],
+        "payload_type": "Dragon 1.1",
+        "payload_mass_kg": 2296,
+        "payload_mass_lbs": 5062,
+        "orbit": "ISS",
+        "mass_returned_kg": 1600,
+        "mass_returned_lbs": 3500,
+        "flight_time_sec": 2592000,
+        "cargo_manifest": "https://en.wikipedia.org/wiki/SpaceX_CRS-3#Primary_payload_and_downmass"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": true,
+    "landing_type": "Ocean",
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/ussqijG.png",
+      "reddit_campaign": null,
+      "reddit_launch": "http://www.reddit.com/r/spacex/comments/22zo8c",
+      "reddit_recovery": null,
+      "reddit_media": null,
+      "presskit": "http://www.spacex.com/sites/spacex/files/spacexcrs-3_presskit_042014.pdf",
+      "article_link": "https://en.wikipedia.org/wiki/SpaceX_CRS-3",
+      "video_link": "https://www.youtube.com/watch?v=65zDaDSvIww"
+    },
+    "details": "Following second-stage separation, SpaceX conducted a second controlled-descent test of the discarded booster vehicle and achieved the first successful controlled ocean touchdown of a liquid-rocket-engine orbital booster. Following touchdown the first stage tipped over as expected and was destroyed. This was the first Falcon 9 booster to fly with extensible landing legs and the first Dragon mission with the Falcon 9 v1.1 launch vehicle."
+  },
+  {
+    "flight_number": 15,
+    "launch_year": "2014",
+    "launch_date_unix": 1405350900,
+    "launch_date_utc": "2014-07-14T15:15:00Z",
+    "launch_date_local": "2014-07-14T11:15:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.1"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B1007",
+    "cap_serial": null,
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "Orbcomm-OG2-M1",
+        "customers": [
+          "Orbcomm"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 1316,
+        "payload_mass_lbs": 2901,
+        "orbit": "LEO"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": true,
+    "landing_type": "Ocean",
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/GtRBKVZ.png",
+      "reddit_campaign": null,
+      "reddit_launch": "http://www.reddit.com/r/spacex/comments/2aany2",
+      "reddit_recovery": null,
+      "reddit_media": null,
+      "presskit": "http://www.spacex.com/sites/spacex/files/spacex_orbcomm_presskit_final.pdf",
+      "article_link": "https://en.wikipedia.org/wiki/Falcon_9_flight_10",
+      "video_link": "https://www.youtube.com/watch?v=lbHnSu-DLR4"
+    },
+    "details": "Total payload mass was 1,316 kg (2,901 lb) : 6 satellites weighing 172 kg each, plus two 142-kg mass simulators. This was the second Falcon 9 booster equipped with landing legs. Following second-stage separation, SpaceX conducted a controlled-descent test of the first stage, which successfully decelerated from� hypersonic velocity in the upper atmosphere, made reentry and landing burns, deployed its legs and touched down on the ocean surface. As with the previous mission, the first stage then tipped over as expected and was not recovered."
+  },
+  {
+    "flight_number": 16,
+    "launch_year": "2014",
+    "launch_date_unix": 1407225600,
+    "launch_date_utc": "2014-08-05T08:00:00Z",
+    "launch_date_local": "2014-08-05T04:00:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.1"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B1008",
+    "cap_serial": null,
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "AsiaSat 8",
+        "customers": [
+          "AsiaSat"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 4535,
+        "payload_mass_lbs": 9998,
+        "orbit": "LEO"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/9iWbtpr.png",
+      "reddit_campaign": null,
+      "reddit_launch": "http://www.reddit.com/r/spacex/comments/2fenrv",
+      "reddit_recovery": null,
+      "reddit_media": null,
+      "presskit": "https://spaceflightnow.com/falcon9/011/presskit.pdf",
+      "article_link": "https://en.wikipedia.org/wiki/AsiaSat_8",
+      "video_link": "https://www.youtube.com/watch?v=essrkMGlw5s"
+    },
+    "details": null
+  },
+  {
+    "flight_number": 17,
+    "launch_year": "2014",
+    "launch_date_unix": 1410066000,
+    "launch_date_utc": "2014-09-07T05:00:00Z",
+    "launch_date_local": "2014-09-07T01:00:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.1"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B1011",
+    "cap_serial": null,
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "AsiaSat 6",
+        "customers": [
+          "AsiaSat"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 4428,
+        "payload_mass_lbs": 9762,
+        "orbit": "GTO"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": false,
+    "landing_type": null,
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/aURjrBV.png",
+      "reddit_campaign": null,
+      "reddit_launch": "http://www.reddit.com/r/spacex/comments/2fenrv",
+      "reddit_recovery": null,
+      "reddit_media": null,
+      "presskit": "https://www.spaceflightnow.com/falcon9/012/presskit.pdf",
+      "article_link": "https://en.wikipedia.org/wiki/AsiaSat_6",
+      "video_link": "https://www.youtube.com/watch?v=39ninsyTRk8"
+    },
+    "details": null
+  },
+  {
+    "flight_number": 18,
+    "launch_year": "2014",
+    "launch_date_unix": 1411278720,
+    "launch_date_utc": "2014-09-21T05:52:00Z",
+    "launch_date_local": "2014-09-21T01:52:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.1"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B1010",
+    "cap_serial": "C106",
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "SpaceX CRS-4",
+        "customers": [
+          "NASA (CRS)"
+        ],
+        "payload_type": "Dragon 1.1",
+        "payload_mass_kg": 2216,
+        "payload_mass_lbs": 4885,
+        "orbit": "ISS",
+        "mass_returned_kg": 1486,
+        "mass_returned_lbs": 3276,
+        "flight_time_sec": 2987160,
+        "cargo_manifest": "https://www.nasa.gov/sites/default/files/files/SpaceX_CRS-4_Mission_Overview-1.pdf"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": true,
+    "landing_type": "Ocean",
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/1xaCZfx.png",
+      "reddit_campaign": null,
+      "reddit_launch": "http://www.reddit.com/r/spacex/comments/2grxer",
+      "reddit_recovery": null,
+      "reddit_media": null,
+      "presskit": "https://www.nasa.gov/sites/default/files/files/SpaceX_NASA_CRS-4_PressKit.pdf",
+      "article_link": "https://en.wikipedia.org/wiki/SpaceX_CRS-4",
+      "video_link": "https://www.youtube.com/watch?v=7YkCh7uOw1Y"
+    },
+    "details": null
+  },
+  {
+    "flight_number": 19,
+    "launch_year": "2015",
+    "launch_date_unix": 1420883220,
+    "launch_date_utc": "2015-01-10T09:47:00Z",
+    "launch_date_local": "2015-01-10T05:47:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.1"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B1012",
+    "cap_serial": "C107",
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "SpaceX CRS-5",
+        "customers": [
+          "NASA (CRS)"
+        ],
+        "payload_type": "Dragon 1.1",
+        "payload_mass_kg": 2395,
+        "payload_mass_lbs": 5280,
+        "orbit": "ISS",
+        "mass_returned_kg": 1633,
+        "mass_returned_lbs": 3600,
+        "flight_time_sec": 2764800,
+        "cargo_manifest": "https://www.nasa.gov/sites/default/files/files/SpaceX_CRS-5_factsheet.pdf"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": false,
+    "landing_type": "ASDS",
+    "landing_vehicle": "JRTI",
+    "links": {
+      "mission_patch": "http://i.imgur.com/k1UOknU.png",
+      "reddit_campaign": null,
+      "reddit_launch": "http://www.reddit.com/r/spacex/comments/2rrdha",
+      "reddit_recovery": null,
+      "reddit_media": null,
+      "presskit": "http://www.spacex.com/sites/spacex/files/spacex_nasa_crs-5_presskit.pdf",
+      "article_link": "https://en.wikipedia.org/wiki/SpaceX_CRS-5",
+      "video_link": "https://www.youtube.com/watch?v=p7x-SumbynI"
+    },
+    "details": "Following second stage separation, SpaceX performed a test flight which attempted to return the first stage of the Falcon 9 through the atmosphere and land it on an approximately 90-by-50-meter (300 ft x 160 ft) floating platform-called the autonomous spaceport drone ship. Many of the test objectives were achieved, including precision control of the rocket's descent to land on the platform at a specific point in the Atlantic ocean, and a large amount of test data was obtained from the first use of grid fin control surfaces used for more precise reentry positioning. The grid fin control system ran out of hydraulic fluid a minute before landing and the landing itself resulted in a crash."
+  },
+  {
+    "flight_number": 20,
+    "launch_year": "2015",
+    "launch_date_unix": 1423695780,
+    "launch_date_utc": "2015-02-11T23:03:00Z",
+    "launch_date_local": "2015-02-11T19:03:00-04:00",
+    "rocket": {
+      "rocket_id": "falcon9",
+      "rocket_name": "Falcon 9",
+      "rocket_type": "v1.1"
+    },
+    "telemetry": {
+      "flight_club": null
+    },
+    "core_serial": "B1013",
+    "cap_serial": null,
+    "launch_site": {
+      "site_id": "ccafs_slc_40",
+      "site_name": "CCAFS SLC 40"
+    },
+    "payloads": [
+      {
+        "payload_id": "DSCOVR",
+        "customers": [
+          "NASA",
+          "NOAA",
+          "USAF"
+        ],
+        "payload_type": "Satellite",
+        "payload_mass_kg": 570,
+        "payload_mass_lbs": 1260,
+        "orbit": "ES-L1"
+      }
+    ],
+    "launch_success": true,
+    "reused": false,
+    "land_success": true,
+    "landing_type": "Ocean",
+    "landing_vehicle": null,
+    "links": {
+      "mission_patch": "http://i.imgur.com/vs7mbfh.png",
+      "reddit_campaign": null,
+      "reddit_launch": "http://www.reddit.com/r/spacex/comments/2vjm9e",
+      "reddit_recovery": null,
+      "reddit_media": null,
+      "presskit": "http://www.spacex.com/press/2015/02/11/dscovr-launch-update",
+      "article_link": "https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory",
+      "video_link": "https://www.youtube.com/watch?v=OvHJSIKP0Hg"
+    },
+    "details": "First launch under USAF's OSP 3 launch contract. First SpaceX launch to put a satellite to an orbit with an orbital altitude many times the distance to the Moon: Sun-Earth libration point L1. The first stage made a test flight descent to an over-ocean landing within 10 m (33 ft) of its intended target."
+  }]
